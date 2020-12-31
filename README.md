@@ -6,5 +6,3 @@
 ![info page](https://github.com/Eddddddddy/esp32-blackpill-oled/blob/master/images/IMG_3455.JPG)
 
 ![info page](https://github.com/Eddddddddy/esp32-blackpill-oled/blob/master/images/IMG_3456.JPG)
-
-![info page](https://github.com/Eddddddddy/esp32-blackpill-oled/blob/master/images/IMG_3457.JPG)
